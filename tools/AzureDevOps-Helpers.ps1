@@ -290,7 +290,7 @@ function Write-Log-Async
 }
 
 function noop() {
- return "nothing"
+ return "nothing to see here"
 }
 
 
