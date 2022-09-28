@@ -10,3 +10,4 @@ Scripts and documenation for Azure DevOps primarily focused on project to projec
 - Check for log folder and create if it doesn't exist
 
 
+goofing off
