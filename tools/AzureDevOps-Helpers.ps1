@@ -289,3 +289,8 @@ function Write-Log-Async
     }
 }
 
+function noop() {
+ return "nothing"
+}
+
+
